@@ -1,2 +1,2 @@
 # hello-github
-Learning github and pushin commits
+Learning github and pushing commits
