@@ -1,2 +1,3 @@
 # hello-github
-Learning github and pushing commits
+Learning GitHub and pushing commits.
+Making a pull request now.
